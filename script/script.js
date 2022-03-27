@@ -1,0 +1,3 @@
+function mensajeimagen() {
+  alert("welcome")  
+}
